@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRM System - Complete Customer Relationship Management Solution
 
 A comprehensive Customer Relationship Management (CRM) system built with **Flutter** for the frontend and **Node.js/Express** with **MySQL** for the backend. This system provides complete lead management, campaign tracking, user management, and reporting capabilities.
@@ -714,3 +715,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the CRM Development Team**
 
 *Last updated: January 2024*
+=======
+# infits_crm
+>>>>>>> 78855b63a5099c61b1a4a17e6d5b15532391f7cd
