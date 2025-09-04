@@ -689,10 +689,6 @@ test: add tests
 chore: maintenance tasks
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Support
 
 ### **Documentation**
@@ -701,20 +697,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Database Schema](docs/DATABASE_SCHEMA.md)
 
 ### **Contact**
-- **Email**: support@crm-system.com
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
+- **Email**: support@infits.tech
 
-### **Community**
-- **Discord**: Join our Discord server
-- **Slack**: Join our Slack workspace
-- **Forum**: Visit our community forum
+**Made with ❤️ by the Infits Team**
 
----
-
-**Made with ❤️ by the CRM Development Team**
-
-*Last updated: January 2024*
-=======
-# infits_crm
->>>>>>> 78855b63a5099c61b1a4a17e6d5b15532391f7cd
