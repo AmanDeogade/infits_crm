@@ -698,6 +698,9 @@ chore: maintenance tasks
 
 ### **Contact**
 - **Email**: support@infits.tech
+- **Manager's Number**: +919392718081
+- **Linkedin Profile**: https://www.linkedin.com/company/team-infits/
 
 **Made with ❤️ by the Infits Team**
-
+- Aman Deogade
+- Prashant Dubey
